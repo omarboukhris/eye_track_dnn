@@ -1,5 +1,7 @@
 This is a clone of https://github.com/melihaltun/Eye_Tracking_with_Deep_CNN
 
+Training DataSet : https://perceptualui.org/research/datasets/LPW/
+
 Some adjustments have been made to make the training setup is easier.
 
 Training and training setup
